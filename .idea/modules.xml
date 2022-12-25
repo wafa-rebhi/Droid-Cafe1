@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DroidCafe.iml" filepath="$PROJECT_DIR$/.idea/modules/DroidCafe.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DroidCafe.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DroidCafe.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DroidCafe.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DroidCafe.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DroidCafe.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DroidCafe.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DroidCafe.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DroidCafe.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Droid-Cafe.iml" filepath="$PROJECT_DIR$/.idea/modules/Droid-Cafe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Droid-Cafe.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Droid-Cafe.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Droid-Cafe.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Droid-Cafe.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Droid-Cafe.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Droid-Cafe.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Droid-Cafe.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Droid-Cafe.app.unitTest.iml" />
     </modules>
   </component>
 </project>
